@@ -12,7 +12,7 @@
 
 **Full Stack Developer | Application Development Student**
 
-Motivated Application Development student seeking a Work Integrated Learning (WIL) opportunity as a Full-Stack Developer. Experienced in building full-stack applications using Java 21, MySQL, HTML, CSS, and JavaScript, with development experience in NetBeans and IntelliJ IDEA 2024.1. Contributed to projects involving front-end interfaces, back-end logic, and database integration. Passionate about writing clean, maintainable code, collaborating in agile teams, and developing scalable software solutions that solve real-world problems and improve community access to services.
+Motivated Application Development student seeking a Work Integrated Learning (WIL) opportunity as a Full-Stack Developer. Experienced in building full-stack applications using Java 21, MySQL, HTML, CSS, and JavaScript, with development experience in NetBeans and IntelliJ IDEA 2024. Contributed to projects involving front-end interfaces, back-end logic, and database integration. Passionate about writing clean, maintainable code, collaborating in agile teams, and developing scalable software solutions that solve real-world problems and improve community access to services.
 
 ---
 
