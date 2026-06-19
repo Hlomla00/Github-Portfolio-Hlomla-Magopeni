@@ -29,9 +29,9 @@ Registered with CPUT student email (`218070349@mycput.ac.za`) and verified throu
 
 ---
 
-## CV — Coded in Markdown
+## Hlomla Magopeni — Coded in Markdown
 
-> The full CV is coded entirely in GitHub Flavoured Markdown and is available at [CV.md](./CV.md).
+
 
 ### Summary
 
